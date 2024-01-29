@@ -1,0 +1,158 @@
+<html lang="en">
+<head><meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my webpage</title>
+<script type="script.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        .nav-socials a {
+            margin-left: 10px;
+            color: #fff;
+        }
+
+        section.intro {
+            background-color: #f0f0f0;
+            padding: 50px;
+            text-align: center;
+        }
+
+        section.intro button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        section#loginSignUpSection {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        section#loginSignUpSection form {
+            margin-top: 20px;
+        }
+
+        section#loginSignUpSection label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        section#loginSignUpSection input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+        }
+
+        section#loginSignUpSection button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+         img{
+            width:60px;
+            height:50px;
+         }
+    </style>
+	</head>
+	<header>
+	<h1>Lets create together</h1>
+	<nav>
+		<ul class="navLinks">
+			<li><a href="#home">HOME</a>
+		</li>
+     <li><a href ="#about"> About </a></li>
+     <li><a href="skills">skills</a></li>
+     <li><a href="#projects">work</a></li>
+     <li><a href="#contacts">contacts</a></li>
+     <div class="nav-socials">
+     	<a href="#"><i class ="fab fa-facebook"></i></a>
+     	<a href="#"><i class="fab fa-github"></i></a>
+
+</div>
+</ul>
+</nav>
+</header>
+<section  
+       class="intro"
+       id="home"
+       data-aos-offset="200"
+       data-aos-delay="50"
+       data-aos-duration="1000"
+       data-aos-easing="ease-in-out"
+       >
+       <h1> hey this Nayan sitoula</h1>
+       <p>
+       	a frontend developer,who loves to creates visually appelaing website
+       </p>
+       <button> hire me here</button>
+   </section>
+   <section id="loginSignUpSection">
+    <h2>Login or Sign Up with Gmail</h2>
+
+  
+    <form action="/login" method="post">
+        <label for="loginEmail">Email:</label>
+        <input type="email" id="loginEmail" name="loginEmail" required>
+        
+        <label for="loginPassword">Password:</label>
+        <input type="password" id="loginPassword" name="loginPassword" required>
+        
+        <button type="submit">Login</button>
+    </form>
+    <p>or</p>
+    <form action="/signup" method="post">
+        <label for="signupName">Name:</label>
+        <input type="text" id="signupName" name="signupName" required>
+        
+        <label for="signupEmail">Email:</label>
+        <input type="email" id="signupEmail" name="signupEmail" required>
+        
+        <label for="signupPassword">Password:</label>
+        <input type="password" id="signupPassword" name="signupPassword" required>
+        
+        <button type="submit">Sign Up</button>
+    </form>
+      <p>Or</p>
+    <a href="/auth/google" class="gmail-signin-btn">
+           Sign In with Gmail
+        <img src="gmail.jpg" alt="Gmail Icon">
+           </a>
+    </section>
+   </html>
+   
