@@ -2,19 +2,83 @@
 <head><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my webpage</title>
-<script type="script.js"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
 
-        header {
+    <Script>
+    function createLogo(imageSrc, altText, link) {
+    var logo = document.createElement("img");
+    logo.src = imageSrc;
+    logo.alt = altText;
+
+    var logoLink = document.createElement("a");
+    logoLink.href = link || "#";
+    logoLink.appendChild(logo);
+
+    return logoLink;
+}
+
+
+function addLogosToWorkSection() {
+    document.addEventListener("DOMContentLoaded", addLogosToWorkSection);
+    var workSection = document.getElementById("projects");
+
+  
+  
+
+    var githubLogo = createLogo("GitHub-logo.png", "GitHub", "https://github.com");
+    workSection.appendChild(githubLogo);
+
+    var jsLogo = createLogo("javascript.png", "JavaScript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript");
+    workSection.appendChild(jsLogo);
+
+    var cssLogo = createLogo("css.png", "CSS", "#"); 
+    workSection.appendChild(cssLogo);
+}
+</Script>
+<style>
+      .header {
+      background-color: #3498db; 
+      color: #fff; 
+      padding: 20px;
+      text-align: center;
+    }
+
+    .main-content {
+      background-color: #ecf0f1; 
+      padding: 20px;
+
+    }
+
+    
+       .footer {
+      background-color: #2ecc71; 
+      color: #fff; 
+      padding: 10px;
+      text-align: center;
+  }
+body{
+
+
+      text-align: center;
+    }
+
+    .profile-container {
+      display: inline-block; 
+      text-align: left; 
+    }
+
+    img {
+      width: 700px;
+      height: 700px;
+            border-radius: 50%;
+          }
+            
+        
+
+        .header {
             background-color: #333;
             color: #fff;
-            text-align: center;
-            padding: 20px;
+            text-align: left;
+            padding: 10px;
         }
 
         nav ul {
@@ -26,7 +90,7 @@
         }
 
         nav ul li {
-            margin: 0 15px;
+            margin:  15px;
         }
 
         nav a {
@@ -34,27 +98,29 @@
             color: #fff;
         }
 
-        .nav-socials a {
-            margin-left: 10px;
-            color: #fff;
+        .navLinks a {
+            margin-left: 150px;
+            color: brown;
         }
 
-        section.intro {
-            background-color: #f0f0f0;
+
+                section.intro {
+            background-color:lightcyan;
+
             padding: 50px;
             text-align: center;
         }
 
         section.intro button {
-            background-color: #333;
-            color: #fff;
+            background-color:black;
+            color: #f0f0f0;
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
         }
 
         section#loginSignUpSection {
-            background-color: #fff;
+            background-color:black;
             padding: 20px;
             margin-top: 20px;
             text-align: center;
@@ -62,13 +128,14 @@
 
         section#loginSignUpSection form {
             margin-top: 20px;
+            
         }
 
         section#loginSignUpSection label {
             display: block;
             margin-bottom: 5px;
             font-weight: bold;
-        }
+                    }
 
         section#loginSignUpSection input {
             width: 100%;
@@ -78,36 +145,49 @@
         }
 
         section#loginSignUpSection button {
-            background-color: #333;
-            color: #fff;
+            background-color: black;
+            color: brown;
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
         }
-         img{
-            width:60px;
-            height:50px;
-         }
-    </style>
-	</head>
-	<header>
-	<h1>Lets create together</h1>
-	<nav>
-		<ul class="navLinks">
-			<li><a href="#home">HOME</a>
-		</li>
-     <li><a href ="#about"> About </a></li>
-     <li><a href="skills">skills</a></li>
-     <li><a href="#projects">work</a></li>
-     <li><a href="#contacts">contacts</a></li>
-     <div class="nav-socials">
-     	<a href="#"><i class ="fab fa-facebook"></i></a>
-     	<a href="#"><i class="fab fa-github"></i></a>
 
+         img{
+            width:200px;
+            height:150px;
+         }
+     }
+    </style>
+	<script type="script.js" differ ></script>
+    </head>
+
+	
+    <body>
+        <header>
+	<h1 class="hh">Lets create together</h1>
+	<nav>
+
+<div class="header">
+<div class="profile-container">
+<img src="jss.jpg" alt="Profile Picture">
 </div>
-</ul>
+</div>
+
+            <ul class="navLinks">
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Work</a></li>
+                <li><a href="#contacts">Contacts</a></li>
+                <div class="nav-socials">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-github"></i></a>
+      
+                </div>
+            </ul>
 </nav>
 </header>
+<div class="main-content">
 <section  
        class="intro"
        id="home"
@@ -116,12 +196,22 @@
        data-aos-duration="1000"
        data-aos-easing="ease-in-out"
        >
-       <h1> hey this Nayan sitoula</h1>
-       <p>
+       <h1> hey this is Nayan sitoula</h1>
+       
+    <button onclick="document.getElementById('myImage').src='bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='bulboff.gif'">Turn off the light</button>
+
+       <p class="weep">
+        <img src="web.jpg" alt="icon" width="6000" height="400">
        	a frontend developer,who loves to creates visually appelaing website
        </p>
        <button> hire me here</button>
    </section>
+</div>
+<div class="footer">
    <section id="loginSignUpSection">
     <h2>Login or Sign Up with Gmail</h2>
 
@@ -149,10 +239,13 @@
         <button type="submit">Sign Up</button>
     </form>
       <p>Or</p>
-    <a href="/auth/google" class="gmail-signin-btn">
+    <a href="www.gmail.com" class="gmail-signin-btn">
            Sign In with Gmail
         <img src="gmail.jpg" alt="Gmail Icon">
            </a>
     </section>
+</div>
+</header>
+</body>
    </html>
    
