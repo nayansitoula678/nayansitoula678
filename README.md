@@ -48,7 +48,10 @@ VS Code • Chrome DevTools • Terminal • NPM
 
 ## 📫 How to Reach Me
 
-- **GitHub:** https://github.com/nayansitoula678  
+
+- 📧 **Gmail:** nayansitoula672@gmail.com  
+- 📘 **Facebook:** https://www.facebook.com/nayan.sitoula  
+- 💻 **GitHub:** https://github.com/nayansitoula678  
 - **Connect:** I’m open to collaboration, internships, and opportunities to grow.
 
 ---
