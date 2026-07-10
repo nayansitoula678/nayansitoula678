@@ -1,115 +1,124 @@
-👋 Hello World!
+# Hi there 👋 I'm Nayan Sitoula
 
-Hi, I'm Nayan Sitoula, a Robotics Instructor and Full Stack Developer from Nepal.
+> **🤖 Robotics Instructor • 🌐 Full Stack Developer • ⚡ IoT Enthusiast
+> • 🧠 AI/ML Learner**
 
-I enjoy building products where software meets hardware. Whether I'm teaching students how to build their first robot or developing full-stack web applications, my goal is always the same: create technology that solves real problems and inspires people to build.
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Nayan%20Sitoula&fontSize=48&fontColor=ffffff&desc=Robotics%20Instructor%20|%20Full%20Stack%20Developer&descAlignY=62"/>`{=html}
+```{=html}
+</p>
+```
+## 👨‍💻 About Me
 
-A few highlights
-🤖 Taught 200+ students in robotics workshops
-🌐 Building modern web applications with React & Next.js
-⚡ Experienced with Arduino, ESP32, ESP8266, ESP32-CAM and IoT
-🎓 BSc CSIT Student
-💼 Open for Freelance Robotics Training & Web Development
-🛠 Tech Stack
-Languages
+I'm **Nayan Sitoula** from **Nepal**, a Robotics Instructor and Full
+Stack Developer passionate about building software and embedded systems.
 
-C • C++ • Python • JavaScript
+-   🤖 Taught **200+ students** in robotics.
+-   🌐 Build modern web applications.
+-   ⚡ Work with Arduino, ESP32, ESP8266 and IoT.
+-   🧠 Exploring AI/ML and automation.
+-   🎯 Building a freelance career in Robotics Training & Web
+    Development.
 
-Frontend
+## 📋 Professional Summary
 
-HTML5 • CSS3 • Tailwind CSS • React • Next.js
+  Field               Details
+  ------------------- ---------------------------
+  Role                Robotics Instructor
+  Education           BSc CSIT
+  Students Mentored   200+
+  Focus               Robotics, Web Apps, AI/ML
+  Open For            Freelance, STEM Workshops
 
-Backend
+## 🛠 Tech Stack
 
-Node.js • Express.js
+  -----------------------------------------------------------------------
+  Category                            Technologies
+  ----------------------------------- -----------------------------------
+  Languages                           C, C++, Python, JavaScript
 
-Database
+  Frontend                            HTML, CSS, Tailwind CSS, React,
+                                      Next.js
 
-PostgreSQL • MySQL
+  Backend                             Node.js, Express.js
 
-Robotics
+  Database                            PostgreSQL, MySQL
 
-Arduino UNO • Arduino Nano • ESP32 • ESP8266 • AI Thinker ESP32-CAM
+  Robotics                            Arduino UNO, Nano, ESP32, ESP8266,
+                                      ESP32-CAM
 
-Tools
+  Tools                               Git, GitHub, VS Code, Arduino IDE,
+                                      PlatformIO, Postman, Figma
+  -----------------------------------------------------------------------
 
-Git • GitHub • VS Code • Arduino IDE • PlatformIO • Postman • Figma
+## 🤖 Robotics
 
-🤖 Robotics Journey
+### Boards
 
-I've worked with numerous sensors and electronic components, including:
+-   Arduino UNO
+-   Arduino Nano
+-   ESP32
+-   ESP8266
+-   ESP32-CAM
 
-Ultrasonic Sensor
-IR Sensor
-Flame Sensor
-Rain Sensor
-Soil Moisture Sensor
-LDR
-DHT11
-RFID
-Servo Motors
-DC Motors
-Relay Modules
-Bluetooth HC-05
-LCD Displays
-Buzzers
-LEDs
-Projects
-Obstacle Avoiding Robot
-Line Following Robot
-Bluetooth Controlled Robot
-RFID Door Lock
-Smart Irrigation System
-Fire Detection System
-Smart Street Light
-Home Automation
-Smart Dustbin
-Distance Measurement System
-🌟 Featured Projects
-🎓 EduStack
+### Sensors
 
-A modern learning management platform focused on improving digital education.
+Ultrasonic • IR • Flame • Rain • LDR • DHT11 • Soil Moisture • RFID •
+Servo • HC-05 • Relay • LCD • Buzzer
 
-🏦 Personalized Banking Application
+### Projects
 
-A secure banking application with user-centric financial features.
+-   Obstacle Avoiding Robot
+-   Bluetooth Controlled Robot
+-   Fire Detection System
+-   Smart Street Light
+-   Smart Irrigation
+-   RFID Door Lock
+-   Home Automation
+-   Smart Dustbin
 
-📂 Smart File Organizer
+## 📂 Repository Highlights
 
-Automatically categorizes and organizes files into structured folders.
+  Repository                       Description
+  -------------------------------- -----------------------------------
+  nayansitoula678                  GitHub profile
+  nayansitoula-portfolio           Personal portfolio
+  Ai-ml                            AI & Machine Learning experiments
+  Smart-File-Organizer             Python automation
+  daily-expense-tracker            Expense tracking web app
+  Offline-Chess-Multiplayer-Game   Browser chess game
+  javascript-                      JavaScript practice
+  DSA-                             C++ DSA repository
+  simulation-modelingtemps         Simulation & modeling programs
 
-🌐 Portfolio Website
+## 🎯 Current Focus
 
-A responsive portfolio showcasing projects, skills, and experience.
+-   Robotics Education
+-   Full Stack Development
+-   AI/ML
+-   LMS Development
+-   Automation Programs
+-   IoT Solutions
 
-📈 GitHub Analytics
+## 💼 Services
 
-Include:
+-   Robotics Training
+-   STEM Workshops
+-   Full Stack Web Development
+-   AI & Automation
+-   IoT Prototyping
 
-GitHub Stats
-Streak Stats
-Top Languages
-Activity Graph
-Contribution Snake Animation
-🌱 Currently Learning
-Advanced Next.js
-PostgreSQL
-Robotics Curriculum Development
-AI + Robotics Integration
-Cloud Deployment
-Embedded Systems
-💼 Available For
-Robotics Workshops
-STEM Education
-Web Application Development
-IoT Projects
-Freelance Opportunities
-Technical Mentorship
-📬 Connect With Me
-GitHub: github.com/nayansitoula678
-LinkedIn: linkedin.com/in/nayan-sitoula-b2ba38372
-Email: nayansitoula03@gmail.com
+## 📫 Connect
 
-"Building technology is exciting. Teaching others to build it is even more rewarding."
+  Platform   Link
+  ---------- -------------------------------------------
+  Email      nayansitoula03@gmail.com
+  LinkedIn   https://www.linkedin.com/in/nayan-sitoula
+  GitHub     https://github.com/nayansitoula678
 
-⭐ Thanks for visiting my profile! If you enjoy my work, feel free to explore my repositories and connect with me.
+------------------------------------------------------------------------
+
+> *Building technology is exciting. Teaching others to build it is even
+> more rewarding.*
