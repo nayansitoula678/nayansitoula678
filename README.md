@@ -1,61 +1,115 @@
-# Hi, I’m **Nayan Sitoula**
-### A passionate **Software & Web Developer** from Nepal 🇳🇵
+👋 Hello World!
 
-I love building interactive, scalable, and user-friendly web applications. I’m currently sharpening my skills in **JavaScript**, **Frontend Development**, and **Problem Solving** — and continuously exploring backend tech too.
+Hi, I'm Nayan Sitoula, a Robotics Instructor and Full Stack Developer from Nepal.
 
- I enjoy turning ideas into real digital products and learning new technologies along the way.
+I enjoy building products where software meets hardware. Whether I'm teaching students how to build their first robot or developing full-stack web applications, my goal is always the same: create technology that solves real problems and inspires people to build.
 
----
+A few highlights
+🤖 Taught 200+ students in robotics workshops
+🌐 Building modern web applications with React & Next.js
+⚡ Experienced with Arduino, ESP32, ESP8266, ESP32-CAM and IoT
+🎓 BSc CSIT Student
+💼 Open for Freelance Robotics Training & Web Development
+🛠 Tech Stack
+Languages
 
-##  What I’m Working On
-- Mastering **JavaScript** & advanced web development
-- Building real projects to level up practical coding skills
-- Contributing to open-source and learning best practices
+C • C++ • Python • JavaScript
 
----
+Frontend
 
-##  Skills & Technologies
+HTML5 • CSS3 • Tailwind CSS • React • Next.js
 
-###  Languages
-**JavaScript**, **TypeScript**, **Python**, **C++**, **HTML**, **CSS**
+Backend
 
-###  Frameworks & Tools
-React | Node.js | Git & GitHub | REST APIs | Vite | Tailwind CSS
+Node.js • Express.js
 
-###  Workflow
-VS Code • Chrome DevTools • Terminal • NPM
+Database
 
----
+PostgreSQL • MySQL
 
-##  Projects I’m Proud Of
+Robotics
 
-(Pinned projects should be added via GitHub “Customize your pins”)
+Arduino UNO • Arduino Nano • ESP32 • ESP8266 • AI Thinker ESP32-CAM
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **javascript-** | JavaScript | My collection of JS programs while mastering JavaScript |
-| **DSA-** | C++ | Data Structures & Algorithms implementations |
-| **Simple-Portfolio** | HTML | A clean portfolio landing page |
-| **Offline-Chess-Multiplayer-Game** | JavaScript | Chess game you can play offline with a friend |
-| **personlized-banking-app** | React, Next.js, Tailwind | A personalized banking platform UI |
-| **Edusity** | JavaScript | Simple courses application in production |
-| **daily-expense-tracker** | HTML | Daily expense tracker project |
-| **Python-project-from-basic-to-entry-level** | Python | Python projects from beginner to entry-level |
+Tools
 
- *More projects are in my repositories — feel free to explore!*
+Git • GitHub • VS Code • Arduino IDE • PlatformIO • Postman • Figma
 
----
+🤖 Robotics Journey
 
-##  How to Reach Me
+I've worked with numerous sensors and electronic components, including:
 
+Ultrasonic Sensor
+IR Sensor
+Flame Sensor
+Rain Sensor
+Soil Moisture Sensor
+LDR
+DHT11
+RFID
+Servo Motors
+DC Motors
+Relay Modules
+Bluetooth HC-05
+LCD Displays
+Buzzers
+LEDs
+Projects
+Obstacle Avoiding Robot
+Line Following Robot
+Bluetooth Controlled Robot
+RFID Door Lock
+Smart Irrigation System
+Fire Detection System
+Smart Street Light
+Home Automation
+Smart Dustbin
+Distance Measurement System
+🌟 Featured Projects
+🎓 EduStack
 
--  **Gmail:** nayansitoula672@gmail.com  
--  **Facebook:** https://www.facebook.com/nayan.sitoula  
--  **GitHub:** https://github.com/nayansitoula678  
-- **Connect:** I’m open to collaboration, internships, and opportunities to grow.
+A modern learning management platform focused on improving digital education.
 
----
+🏦 Personalized Banking Application
 
+A secure banking application with user-centric financial features.
 
-*Thanks for visiting my GitHub!*  
-Let’s build something awesome together 
+📂 Smart File Organizer
+
+Automatically categorizes and organizes files into structured folders.
+
+🌐 Portfolio Website
+
+A responsive portfolio showcasing projects, skills, and experience.
+
+📈 GitHub Analytics
+
+Include:
+
+GitHub Stats
+Streak Stats
+Top Languages
+Activity Graph
+Contribution Snake Animation
+🌱 Currently Learning
+Advanced Next.js
+PostgreSQL
+Robotics Curriculum Development
+AI + Robotics Integration
+Cloud Deployment
+Embedded Systems
+💼 Available For
+Robotics Workshops
+STEM Education
+Web Application Development
+IoT Projects
+Freelance Opportunities
+Technical Mentorship
+📬 Connect With Me
+GitHub: github.com/nayansitoula678
+LinkedIn: linkedin.com/in/nayan-sitoula-b2ba38372
+Email: nayansitoula03@gmail.com
+
+"Building technology is exciting. Teaching others to build it is even more rewarding."
+
+⭐ Thanks for visiting my profile! If you enjoy my work, feel free to explore my repositories and connect with me.
