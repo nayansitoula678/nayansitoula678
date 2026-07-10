@@ -13,7 +13,7 @@ Stack Developer passionate about building software and embedded systems.
 -   🌐 Build modern web applications.
 -   ⚡ Work with Arduino, ESP32, ESP8266 and IoT.
 -   🧠 Exploring AI/ML and automation.
--   🎯 Building a freelance career in Robotics Training & Web
+-   🎯 Building a  career in Robotics Training & Web
     Development.
 
 ## 📋 Professional Summary
