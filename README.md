@@ -3,13 +3,7 @@
 > **🤖 Robotics Instructor • 🌐 Full Stack Developer • ⚡ IoT Enthusiast
 > • 🧠 AI/ML Learner**
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Nayan%20Sitoula&fontSize=48&fontColor=ffffff&desc=Robotics%20Instructor%20|%20Full%20Stack%20Developer&descAlignY=62"/>`{=html}
-```{=html}
-</p>
-```
+
 ## 👨‍💻 About Me
 
 I'm **Nayan Sitoula** from **Nepal**, a Robotics Instructor and Full
